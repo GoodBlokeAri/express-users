@@ -1,5 +1,5 @@
 # express-users test 
 
-just learning mysql coupled with EJS and express!
+Just learning the ExpressJS framework. Using MySQL and EJS.
 
 ![alt text](https://i.imgur.com/6TpkIcs.png)
