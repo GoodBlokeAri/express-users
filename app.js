@@ -64,10 +64,9 @@ app.get('/', function(req, res)
 {
     connection.query('SELECT * FROM users', function (error, results, fields)
     {
-        console.log(results);
         res.render('index',
         {
-            title   :   'Customers',
+            title   :   'User List',
             users   :   results
         });
     });

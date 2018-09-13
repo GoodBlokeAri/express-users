@@ -1,7 +1,7 @@
 {
-  "name": "apex",
+  "name": "user app",
   "version": "1.0.0",
-  "description": "apex game panel",
+  "description": "user app to learn express",
   "main": "app.js",
   "scripts": {
     "test": "nodemon app.js"
