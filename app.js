@@ -134,5 +134,5 @@ app.delete('/users/delete/:id', function(req, res)
 
 app.listen(app.get('port'), function()
 {
-    console.log('<SRV> Apex Game Panel is live at localhost:' + app.get('port'));
+    console.log('<SRV> live at localhost:' + app.get('port'));
 });
